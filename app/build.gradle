@@ -6,14 +6,18 @@ android {
 
     defaultConfig {
         applicationId "com.example.ggalia84.onesignalnotification"
-        minSdkVersion 17
+        minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
 
         manifestPlaceholders = [manifestApplicationId: "${applicationId}",
-                                onesignal_app_id: "60d7c430-7c02-4499-9140-3d0c6cba98f0",
-                                onesignal_google_project_number: "279583205037"]
+                                onesignal_app_id: "c1351af4-40be-4c75-b7ee-0afe4fdce5ac",
+                                onesignal_google_project_number: "604848082087"]
+
+//        manifestPlaceholders = [manifestApplicationId: "${applicationId}",
+//                                onesignal_app_id: "60d7c430-7c02-4499-9140-3d0c6cba98f0",
+//                                onesignal_google_project_number: "279583205037"]
     }
     buildTypes {
         release {
@@ -31,4 +35,5 @@ dependencies {
     compile 'com.google.android.gms:play-services-gcm:+'
     compile 'com.google.android.gms:play-services-analytics:+'
     compile "com.google.android.gms:play-services-location:+"
+
 }

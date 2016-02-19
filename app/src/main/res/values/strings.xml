@@ -2,4 +2,5 @@
     <string name="app_name">OneSignalNotification</string>
     <string name="action_settings">Settings</string>
     <string name="appbar_scrolling_view_behavior">Hello One Signal</string>
+    <string name="google_app_id">Hello One Signal</string>
 </resources>
