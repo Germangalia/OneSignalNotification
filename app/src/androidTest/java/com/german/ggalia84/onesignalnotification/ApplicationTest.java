@@ -1,4 +1,4 @@
-package com.example.ggalia84.onesignalnotification;
+package com.german.ggalia84.onesignalnotification;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

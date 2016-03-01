@@ -1,4 +1,4 @@
-package com.example.ggalia84.onesignalnotification;
+package com.german.ggalia84.onesignalnotification;
 
 /**
  * Created by ggalia84 on 16/02/16.

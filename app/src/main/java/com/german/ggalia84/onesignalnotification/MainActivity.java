@@ -1,4 +1,4 @@
-package com.example.ggalia84.onesignalnotification;
+package com.german.ggalia84.onesignalnotification;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
